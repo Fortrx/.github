@@ -2,7 +2,7 @@
 
 **Post-Quantum-Resistant Double Ratchet + X3DH Secure Communication System**
 
-Welcome to **Fortrx LLC**, an open-source, highly secure end-to-end encrypted messaging engine built to withstand the cryptographic challenges of the post-quantum era. Our system provides seamless, local-first, terminal-based messaging with robust security protocols.
+Welcome to **Fortrx**, an open-source, highly secure end-to-end encrypted messaging engine built to withstand the cryptographic challenges of the post-quantum era. Our system provides seamless, local-first, terminal-based messaging with robust security protocols.
 
 ---
 
@@ -14,7 +14,7 @@ The Fortrx ecosystem is primarily divided into two main components:
 The backbone of the secure communication engine. 
 - Facilitates **Post-Quantum-Resistant Double Ratchet** + **X3DH** key exchanges.
 - Handles encrypted message routing, user presence, and live delivery.
-- **Tech Stack:** Python, Redis (for live delivery/presence), Alembic (DB migrations), Docker.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Redis (for live delivery/presence), Alembic (DB migrations), MinIO, Docker.
 
 ### [💻 Fortrx-Client](https://github.com/Fortrx/Fortrx-Client)
 The encrypted terminal interface for the Fortrx messaging system.
@@ -42,3 +42,20 @@ To experience the Fortrx ecosystem, you will need to run the server and connect 
 ```bash
 git clone https://github.com/Fortrx/Fortrx-Server.git
 git clone https://github.com/Fortrx/Fortrx-Client.git
+```
+
+### 2. Run the Server
+Follow the instructions in the [Fortrx-Server README](https://github.com/Fortrx/Fortrx-Server) to launch the backend stack using Docker Compose.
+
+### 3. Connect the Client
+Follow the instructions in the [Fortrx-Client README](https://github.com/Fortrx/Fortrx-Client) to initialize your keys, start the daemon, and begin messaging securely.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please check the individual repositories for specific contribution guidelines and issue trackers.
+
+## 📄 License
+
+Fortrx is open-source software. Please refer to the individual repositories for licensing details.
