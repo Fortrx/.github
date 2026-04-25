@@ -1,7 +1,6 @@
 ## Hey, this is Fortrx 👋
 <p align="center">
-  <img src="../assets/profile.png" alt="Profile Image" width="100%"/>
-</p>
+  <img src="https://raw.githubusercontent.com/Fortrx/.github/main/assets/profile.png" alt="Profile Image" width="100%"/>
 <img src="https://api.visitorbadge.io/api/visitors?path=fortrx&countColor=%23f47373&style=for-the-badge" alt="Visitor Count">
 Yes, we are building the future of secure communication. **Fortrx** is an open-source, highly secure end-to-end encrypted messaging engine built to withstand the cryptographic challenges of the post-quantum era. We provide seamless, local-first, terminal-based messaging with robust security protocols. 🔐
 
