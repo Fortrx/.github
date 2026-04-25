@@ -1,7 +1,5 @@
 ## Hey, this is Fortrx 👋
 
-![Fortrx Banner](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop)
-
 Yes, we are building the future of secure communication. **Fortrx** is an open-source, highly secure end-to-end encrypted messaging engine built to withstand the cryptographic challenges of the post-quantum era. We provide seamless, local-first, terminal-based messaging with robust security protocols. 🔐
 
 ### 📦 Our Ecosystem
