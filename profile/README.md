@@ -1,5 +1,7 @@
 ## Hey, this is Fortrx 👋
-
+<p align="center">
+  <img src="../assets/profile.png" alt="Profile Image" width="100%"/>
+</p>
 Yes, we are building the future of secure communication. **Fortrx** is an open-source, highly secure end-to-end encrypted messaging engine built to withstand the cryptographic challenges of the post-quantum era. We provide seamless, local-first, terminal-based messaging with robust security protocols. 🔐
 
 ### 📦 Our Ecosystem
@@ -16,18 +18,6 @@ Fortrx is built with zero-trust principles at its core. See how we protect your 
 - **Post-Quantum Cryptography (PQC):** Ensures that communications remain secure against "harvest now, decrypt later" attacks utilizing future quantum computers. 🛡️
 - **Double Ratchet Algorithm:** Guarantees **Perfect Forward Secrecy (PFS)** and **Post-Compromise Security (PCS)** by rotating keys after every message exchange. 🔄
 - **Local Database Encryption:** Private keys, ratchet sessions, and chat histories never leave your device unencrypted. 🔒
-
-### ⚡ Quick Start
-
-Ready to experience the Fortrx ecosystem? You will need to run the server and connect to it using the client.
-
-1. **Clone the Projects:**
-   ```bash
-   git clone https://github.com/Fortrx/Fortrx-Server.git
-   git clone https://github.com/Fortrx/Fortrx-Client.git
-   ```
-2. **Run the Server:** Follow the instructions in the [Fortrx-Server README](https://github.com/Fortrx/Fortrx-Server) to launch the backend stack.
-3. **Connect the Client:** Follow the instructions in the [Fortrx-Client README](https://github.com/Fortrx/Fortrx-Client) to initialize your keys and begin messaging securely.
 
 ### 👓 Appendix
 
